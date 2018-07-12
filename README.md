@@ -8,3 +8,9 @@
 
 点击左上方下拉列表切换到“华东-苏州”地域。
 ![beijing_to_suzhou](./img/beijing_to_suzhou.png)
+
+点击“实例”选项卡中的“创建实例”按钮。
+![create_instance](./img/create_instance.png)
+
+按图示配置购买AI加速器BCC实例，**注意操作系统需选择“6.5 x86_64 (64bit) RSA解密加速服务”**。同时购买一个公网IP，以便于从本地终端连接至购买的BCC实例。
+![create_instance2](./img/create_instance2.png)

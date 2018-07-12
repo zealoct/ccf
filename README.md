@@ -37,6 +37,9 @@ Table of Contents
 
 # 2. 安装驱动
 
+使用`wget --no-check-certificate "https://raw.githubusercontent.com/Cwndmiao/ccf/master/driver/dummy"`命令将编译好的驱动下载至BCC实例，再通过`insmod ./fpga_driver.ko`安装驱动。此时，可以在`/dev`目录下看到驱动成功加载后创建的设备文件`/dev/fpga0`。
+
+![dev_file](./img/dev_file.png)
 
 # 3. Polaris编程手册
 

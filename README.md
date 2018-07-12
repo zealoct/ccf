@@ -37,7 +37,8 @@ Table of Contents
 
 # 2. 安装驱动
 
-**请维持BCC实例使用的Linux内核版本为`3.10.0-514.16.1.el7.x86_64`，不要使用包管理工具更新内核，否则将导致待安装驱动二进制文件与内核版本不兼容。**使用`wget --no-check-certificate "https://raw.githubusercontent.com/Cwndmiao/ccf/master/driver/dummy"`命令将编译好的驱动下载至BCC实例，再通过`insmod ./fpga_driver.ko`安装驱动。此时，可以在`/dev`目录下看到驱动成功加载后创建的设备文件`/dev/fpga0`。
+**请维持BCC实例使用的Linux内核版本为`3.10.0-514.16.1.el7.x86_64`，不要使用包管理工具更新内核，否则将导致待安装驱动二进制文件与内核版本不兼容。**
+使用`wget --no-check-certificate "https://raw.githubusercontent.com/Cwndmiao/ccf/master/driver/dummy"`命令将编译好的驱动下载至BCC实例，再通过`insmod ./fpga_driver.ko`安装驱动。此时，可以在`/dev`目录下看到驱动成功加载后创建的设备文件`/dev/fpga0`。
 
 ![dev_file](./img/dev_file.png)
 

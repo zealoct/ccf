@@ -2,14 +2,14 @@
 Table of Contents
 =================
 
-   * [1. 购买比赛专用AI加速器BCC实例](#1-购买比赛专用ai加速器bcc实例)
+   * [1. 购买比赛专用AI加速器BCC实例（如已获取BCC实例IP和密码，请跳过此步）](#1-购买比赛专用ai加速器bcc实例（如已获取BCC实例IP和密码，请跳过此步）)
    * [2. 安装驱动](#2-安装驱动)
    * [3. Polaris编程手册](#3-polaris编程手册)
    * [4. 比赛命题](#4-比赛命题)
 
 
 
-# 1. 购买比赛专用AI加速器BCC实例
+# 1. 购买比赛专用AI加速器BCC实例（如已获取BCC实例IP和密码，请跳过此步）
 
 使用百度账号登录[百度云](https://login.bce.baidu.com/?account=)。
 ![bce_login](./img/bce_login.png)

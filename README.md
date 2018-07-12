@@ -23,3 +23,9 @@
 
 使用公网IP和随机密码从本地终端登录至BCC实例，通过`lspci -d 10ee:`可以查看到BCC实例中附带的FPGA。
 ![terminal](./img/terminal.png)
+
+# 2. Polaris编程手册
+
+[Polaris编程手册](http://106.12.39.80:8890/)
+
+# 3. 比赛命题
